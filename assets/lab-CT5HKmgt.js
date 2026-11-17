@@ -1,0 +1,1 @@
+import{n as e}from"./stairs-Bmoxf97e.js";var t={id:`zone-stairs`,build(t){let n=t.layout.zones.find(e=>e.id===`stairs`);return e.build({layout:t.layout,zone:n,materials:t.materials,seed:t.seed})}};export{t as default};

@@ -1,0 +1,1 @@
+import{n as e}from"./gate-By_6yTO3.js";var t={id:`zone-gate`,build(t){let n=t.layout.zones.find(e=>e.id===`gate`);return e.build({layout:t.layout,zone:n,materials:t.materials,seed:t.seed})}};export{t as default};

@@ -1,0 +1,1 @@
+var e=Object.freeze({role:`aRole`,tone:`aTone`,pattern:`aPattern`,hem:`aHem`}),t=Object.freeze([`plain`,`stripe`,`dots`,`hem`]);export{e as n,t};

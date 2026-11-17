@@ -1,0 +1,1 @@
+import{n as e}from"./gardens-gab75UxI.js";import{t}from"./group-BRdQN1c1.js";import{t as n}from"./yards-B59h1qqk.js";var r=t(`architecture-canal`,n,e);export{r as default};

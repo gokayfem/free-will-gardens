@@ -1,0 +1,1 @@
+import{r as e,t}from"./layout-Bc7S5LTU.js";var n={id:`orchard-zone-cloister`,build(n){let r=t.zones.find(e=>e.id===`cloister`);return e.build({layout:t,zone:r,materials:n.materials,seed:n.seed})}};export{n as default};

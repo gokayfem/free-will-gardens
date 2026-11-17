@@ -1,0 +1,1 @@
+import{s as e,t}from"./headless-CtirL_Vu.js";var n={id:`lily-court-zone-fountain`,build(n){let r=t.zones.find(e=>e.id===`fountain`);return e.build({layout:t,zone:r,materials:n.materials,seed:n.seed})}};export{n as default};
